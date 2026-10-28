@@ -1,12 +1,23 @@
 {
   "schema": 1,
   "state": "standby",
-  "downloadsPublished": false,
+  "downloadsPublished": true,
   "applicationSourceIncluded": false,
   "channels": [
     "feed/latest.yml",
     "feed/beta.yml",
     "feed/latest-mac.yml",
     "feed/beta-mac.yml"
-  ]
+  ],
+  "automaticUpdatesPublished": false,
+  "latestManualMacDownload": {
+    "version": "0.1.0-beta.1",
+    "commit": "107ad2d6f1919bc4c89f1bb7a2878dd224b626d3",
+    "release": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.1-mac-107ad2d6",
+    "architectures": [
+      "arm64",
+      "x64"
+    ],
+    "notarized": false
+  }
 }
