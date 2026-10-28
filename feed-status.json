@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "state": "standby",
+  "downloadsPublished": false,
+  "applicationSourceIncluded": false,
+  "channels": [
+    "feed/latest.yml",
+    "feed/beta.yml",
+    "feed/latest-mac.yml",
+    "feed/beta-mac.yml"
+  ]
+}
