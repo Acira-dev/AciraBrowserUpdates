@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "state": "standby",
+  "state": "mac-beta-active",
   "downloadsPublished": true,
   "applicationSourceIncluded": false,
   "channels": [
@@ -9,15 +9,34 @@
     "feed/latest-mac.yml",
     "feed/beta-mac.yml"
   ],
-  "automaticUpdatesPublished": false,
+  "automaticUpdatesPublished": true,
   "latestManualMacDownload": {
-    "version": "0.1.0-beta.1",
-    "commit": "107ad2d6f1919bc4c89f1bb7a2878dd224b626d3",
-    "release": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.1-mac-107ad2d6",
+    "version": "0.1.0-beta.2",
+    "commit": "281c88db",
+    "release": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.2-mac-281c88db",
     "architectures": [
       "arm64",
       "x64"
     ],
     "notarized": false
-  }
+  },
+  "activeAutomaticUpdate": {
+    "platform": "darwin",
+    "channel": "beta",
+    "version": "0.1.0-beta.3",
+    "productCommit": "a5472445e9cbaeae4dfebc305ae601d19102e444",
+    "architectures": [
+      "arm64",
+      "x64"
+    ],
+    "release": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.3-mac-a5472445",
+    "distributionSigned": true,
+    "notarized": false,
+    "stapled": false
+  },
+  "standbyChannels": [
+    "feed/latest.yml",
+    "feed/beta.yml",
+    "feed/latest-mac.yml"
+  ]
 }

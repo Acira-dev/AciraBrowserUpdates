@@ -1,44 +1,52 @@
 # Acira Browser public downloads and update feed
 
 Acira's application source repository remains private. This public repository holds
-update metadata, with selected manual downloads attached as GitHub release assets.
-No installers, application payloads, signing profiles or credentials are committed
-to this repository's Git history.
+update metadata; application update payloads and selected manual downloads are
+attached as GitHub release assets. No application binaries, signing profiles or
+credentials are committed to Git history.
 
-## Manual Mac beta downloads
+## Mac beta updates
 
-[Download the latest Mac beta](https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.1-mac-107ad2d6), built from
-commit `107ad2d6f1919bc4c89f1bb7a2878dd224b626d3`.
-Separate DMGs support Apple silicon and Intel Macs running macOS 13 or later.
-These are Developer ID signed, unnotarized beta builds. macOS may block opening them;
-see [Apple's opening guidance](https://support.apple.com/102445).
-Intel execution was checked with Rosetta on Apple silicon; physical Intel testing
-remains pending. iCloud passkey authorization remains pending.
+[Acira Browser 0.1.0-beta.3](https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.3-mac-a5472445)
+is offered on the **Mac Beta** update channel for Apple silicon and Intel Macs
+running macOS 13 or later. Existing signed beta installations with this feed can
+choose **Settings → About → Check for updates**, then **Restart to update** when
+the download finishes. Updating keeps the existing browser profile, tabs and settings.
 
-The release includes `SHA256SUMS` and `BUILD-INFO.json`. Agent features remain in
-private early access.
+The beta is **Developer ID signed, unnotarized and unstapled**. macOS may warn or
+block opening unnotarized software; see [Apple's opening guidance](https://support.apple.com/102445).
+iCloud passkey authorization remains pending. Native Apple silicon install and
+update checks passed on isolated test profiles; physical Intel testing remains pending.
 
-## Automatic update feed
+The release contains architecture-specific browser update ZIPs, `SHA256SUMS` and
+`BUILD-INFO.json`. The new standalone beta 3 DMG installers remain local.
 
-The automatic update feed remains in standby. The manual DMGs are not offered as
-an automatic update. The channel documents use version `0.0.0` with an empty file
-list as a no-update sentinel; this is not an Acira application release. Acira
-disables downgrades, so existing versions remain installed and no payload is
-downloaded from this standby feed.
+## Manual Mac downloads
+
+[The published Mac beta 2 DMGs](https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.2-mac-281c88db)
+remain available for new installations. They contain the public update configuration
+and can receive the beta 3 update after installation. These DMGs are also signed,
+unnotarized betas. Agent features remain in private early access.
+
+## Update feed
 
 Feed directory: https://raw.githubusercontent.com/Acira-dev/AciraBrowserUpdates/main/feed/
 
 | Platform | Stable | Beta |
 | --- | --- | --- |
-| macOS (Intel and Apple silicon) | `latest-mac.yml` | `beta-mac.yml` |
-| Windows | `latest.yml` | `beta.yml` |
+| macOS (Intel and Apple silicon) | `latest-mac.yml` — standby | `beta-mac.yml` — beta 3 |
+| Windows | `latest.yml` — standby | `beta.yml` — standby |
 
-When an automatic update is separately authorized, publish verified payloads first
-and update only the matching channel metadata afterward. Metadata must include a
-higher version, the exact SHA-512 and size of each payload, and an absolute public
-HTTPS download URL. Mac automatic-update payloads require Developer ID signing
-and notarization. Both Mac architectures must be represented in the same channel
-document. Do not put private tokens in the feed.
+Windows downloads and channel documents are unchanged. Standby documents use
+version `0.0.0` with no files; this is a no-update sentinel, not an app release.
+Downgrades are disabled.
 
-This metadata does not enable a feed inside old installed apps. A build must already
-have this public feed configured to discover future updates.
+Publish verified update assets before changing matching channel metadata. Each
+active document contains the exact SHA-512, size and absolute public HTTPS URL
+for each payload. Both Mac architectures belong in the same Mac channel document.
+The current Mac Beta channel explicitly distributes a signed, unnotarized beta;
+notarized stable-distribution gates remain separate. No security checks are disabled.
+
+Only builds already carrying this public update configuration can discover these
+updates. Automatic checks run after launch and every eight hours; Settings can
+check immediately. With automatic downloads off, choose Download in Settings first.
