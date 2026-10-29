@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.3",
+  "version": "0.1.0-beta.4",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.3-mac-a5472445/AciraBrowser-0.1.0-beta.3-mac-arm64-update.zip",
-      "sha512": "Vzn3YEh4OPg5rfPlqoETmqd3xzStPeHvb6geCH0jsriqJJ4YEYw2UjESQei2jtUYfK5k6FoWRWpb492vrn+CVQ==",
-      "size": 235044754
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.4-mac-35237e8e/AciraBrowser-0.1.0-beta.4-mac-arm64-update.zip",
+      "sha512": "nxj7oa6ppRAxyPChLt3Bv/f5DVfpTqlY5FlLU8RkF5Tv7gMCOacrPZmcABmoP5itunuqnvEi2IGDezRgdHPCpQ==",
+      "size": 235046651
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.3-mac-a5472445/AciraBrowser-0.1.0-beta.3-mac-x64-update.zip",
-      "sha512": "FfHHwFWeBcBIEkUceUrPA91ne6WMl/Q/Kkny3h9yyvK47uFbonrvXtJ4aUh+KxDKGYYNektxadgxJMS8qnxJOw==",
-      "size": 243116538
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.4-mac-35237e8e/AciraBrowser-0.1.0-beta.4-mac-x64-update.zip",
+      "sha512": "AHW1glzaz4ou5VNQPRl5VzSt9E1nBcWpHKsCQLT3/U0GQ7YJM1SkrSDqCkPR2x6DO6kLqI2b1be4KMgPcrhrQg==",
+      "size": 243118539
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.3-mac-a5472445/AciraBrowser-0.1.0-beta.3-mac-arm64-update.zip",
-  "sha512": "Vzn3YEh4OPg5rfPlqoETmqd3xzStPeHvb6geCH0jsriqJJ4YEYw2UjESQei2jtUYfK5k6FoWRWpb492vrn+CVQ==",
-  "releaseDate": "2026-10-29T12:21:30.361Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.4-mac-35237e8e/AciraBrowser-0.1.0-beta.4-mac-arm64-update.zip",
+  "sha512": "nxj7oa6ppRAxyPChLt3Bv/f5DVfpTqlY5FlLU8RkF5Tv7gMCOacrPZmcABmoP5itunuqnvEi2IGDezRgdHPCpQ==",
+  "releaseDate": "2026-10-29T13:03:58.635Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.3",
-  "releaseNotes": "Live View and Tabs layout previews now stay open until dismissed. Background workspace audio uses a dot matrix without overlapping its icon; hover reveals the chosen icon. Includes earlier website zoom and tab-close input fixes. Developer ID signed beta; not notarized or stapled. Existing profiles and tabs are preserved when updating. iCloud passkey authorization remains pending."
+  "releaseName": "Acira Browser 0.1.0-beta.4",
+  "releaseNotes": "Locked workspaces resume their live pages with drafts, scroll and media position preserved within the same app window. Website viewport changes now settle directly to their final ratio; workspace switching avoids captured ghost frames. Includes the prior View, workspace audio, zoom and passive popup fixes. Developer ID signed beta; not notarized or stapled. Existing profiles and tabs are preserved when updating. iCloud passkey authorization remains pending."
 }

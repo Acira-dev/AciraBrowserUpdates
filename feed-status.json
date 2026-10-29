@@ -23,13 +23,13 @@
   "activeAutomaticUpdate": {
     "platform": "darwin",
     "channel": "beta",
-    "version": "0.1.0-beta.3",
-    "productCommit": "a5472445e9cbaeae4dfebc305ae601d19102e444",
+    "version": "0.1.0-beta.4",
+    "productCommit": "35237e8ec063bd10db26686f8dc7999b911f8f18",
     "architectures": [
       "arm64",
       "x64"
     ],
-    "release": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.3-mac-a5472445",
+    "release": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/tag/v0.1.0-beta.4-mac-35237e8e",
     "distributionSigned": true,
     "notarized": false,
     "stapled": false
