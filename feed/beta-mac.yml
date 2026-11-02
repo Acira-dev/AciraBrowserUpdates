@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.4",
+  "version": "0.1.0-beta.7",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.4-mac-35237e8e/AciraBrowser-0.1.0-beta.4-mac-arm64-update.zip",
-      "sha512": "nxj7oa6ppRAxyPChLt3Bv/f5DVfpTqlY5FlLU8RkF5Tv7gMCOacrPZmcABmoP5itunuqnvEi2IGDezRgdHPCpQ==",
-      "size": 235046651
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-mac-91f0784d/AciraBrowser-0.1.0-beta.7-mac-arm64-update.zip",
+      "sha512": "hIR0pi0AkVnTgXKuP6LEOaNcBnRhB+4Qzfmd8lBvkcRtp5hhOOFzRWPualnrlpe4BHAiWtkrehaISXdjzJKmtw==",
+      "size": 237310845
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.4-mac-35237e8e/AciraBrowser-0.1.0-beta.4-mac-x64-update.zip",
-      "sha512": "AHW1glzaz4ou5VNQPRl5VzSt9E1nBcWpHKsCQLT3/U0GQ7YJM1SkrSDqCkPR2x6DO6kLqI2b1be4KMgPcrhrQg==",
-      "size": 243118539
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-mac-91f0784d/AciraBrowser-0.1.0-beta.7-mac-x64-update.zip",
+      "sha512": "74uLxMm68LzxuUBKqGzRT1rfzHvBNO+OoPlGDjk18jh+Wq+wvG5ZjXb6w+pzFtIsrWQ7ZXeN4itLCWKe54KZ4Q==",
+      "size": 245174985
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.4-mac-35237e8e/AciraBrowser-0.1.0-beta.4-mac-arm64-update.zip",
-  "sha512": "nxj7oa6ppRAxyPChLt3Bv/f5DVfpTqlY5FlLU8RkF5Tv7gMCOacrPZmcABmoP5itunuqnvEi2IGDezRgdHPCpQ==",
-  "releaseDate": "2026-10-29T13:03:58.635Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-mac-91f0784d/AciraBrowser-0.1.0-beta.7-mac-arm64-update.zip",
+  "sha512": "hIR0pi0AkVnTgXKuP6LEOaNcBnRhB+4Qzfmd8lBvkcRtp5hhOOFzRWPualnrlpe4BHAiWtkrehaISXdjzJKmtw==",
+  "releaseDate": "2026-11-02T16:46:08.252Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.4",
-  "releaseNotes": "Locked workspaces resume their live pages with drafts, scroll and media position preserved within the same app window. Website viewport changes now settle directly to their final ratio; workspace switching avoids captured ghost frames. Includes the prior View, workspace audio, zoom and passive popup fixes. Developer ID signed beta; not notarized or stapled. Existing profiles and tabs are preserved when updating. iCloud passkey authorization remains pending."
+  "releaseName": "Acira Browser 0.1.0-beta.7",
+  "releaseNotes": "- Your tabs come back after quitting, even with several profiles.\n- Favorites are real tabs now: clicking one again takes you back to the same page.\n- Cookie banners are answered \"Reject all\" for you where a site allows it, and never hidden or accepted.\n- Site sign-in windows and dialogs (Reddit, Jack Westin and others) are never blocked.\n- Turning protection off for a site now really lets everything on it load.\n- Sites like Netflix video, Amazon and many file hosts are no longer blocked by mistake.\n- Faster animations when Animation speed is set to Fast.\n- One typeface across Acira: Inter.\n- Fullscreen fills the screen, and the top bar stays reachable.\n- The Back button no longer gets stuck on pages that redirect.\n- Many smaller fixes in navigation, Settings, translations, extensions and stability."
 }
