@@ -1,9 +1,9 @@
-version: 0.1.0-beta.7
+version: 0.1.0-beta.8
 files:
-  - url: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-windows-574941f2/AciraBrowserSetup-0.1.0-beta.7.exe
-    sha512: fnN686AlNkyMGFnfOfWdQbnpl80keFg96ruRn3/+Rsi8dSgyeOE8oWM/ZkGYbVC68PGqalknG9jDg+zjpO9n7Q==
-    size: 227556484
-path: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-windows-574941f2/AciraBrowserSetup-0.1.0-beta.7.exe
-sha512: fnN686AlNkyMGFnfOfWdQbnpl80keFg96ruRn3/+Rsi8dSgyeOE8oWM/ZkGYbVC68PGqalknG9jDg+zjpO9n7Q==
-releaseDate: '2026-11-02T12:45:09.437Z'
-releaseNotes: Windows automatic updates are now enabled. If you installed an earlier Windows beta, install this version once from acirabrowser.com/download/. Your existing profile is retained; subsequent versions can use in-app updates. Existing Creation installer. Unsigned Windows x64 build.
+  - url: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-windows-530845ad/AciraBrowserSetup-0.1.0-beta.8.exe
+    sha512: kwsXSMCjibTSoBGD9Fn2/hdCEsb7BFD8rAp2rvWr5vM+I0Wts5r7AtGn0jDUrCwklVGGUnoX5IDBKHKN3e4n0A==
+    size: 227614487
+path: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-windows-530845ad/AciraBrowserSetup-0.1.0-beta.8.exe
+sha512: kwsXSMCjibTSoBGD9Fn2/hdCEsb7BFD8rAp2rvWr5vM+I0Wts5r7AtGn0jDUrCwklVGGUnoX5IDBKHKN3e4n0A==
+releaseDate: '2026-11-02T16:30:58.712Z'
+releaseNotes: Windows-only beta 8 from upstream 91f0784d. Existing beta 7 installations can update through the Windows beta channel. Actual beta7-to-beta8 download, install-on-quit, relaunch and profile retention verified using an isolated QA identity. Existing Creation installer. Unsigned Windows x64. Mac releases unchanged.
