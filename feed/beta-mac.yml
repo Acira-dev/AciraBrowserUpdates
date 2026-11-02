@@ -5,6 +5,11 @@
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-arm64-update.zip",
       "sha512": "brJc5Mdk4Zfj+bcNSs9YG4U35bivukJkN23zgisdpBbsVc4xlyQVYQ88g1ITzVSW8aLta2qPbM1kqQC8vsauyw==",
       "size": 237317307
+    },
+    {
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-x64-update.zip",
+      "sha512": "rT5c5PLWzh+QFMgM/ye2djUVHXIA5J9GJf12OpynTVYg6GqSsb5CVu10lC7NyM3X7sjASQw0sL9Dv6qIKNNNvA==",
+      "size": 245181463
     }
   ],
   "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-arm64-update.zip",
