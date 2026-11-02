@@ -1,21 +1,16 @@
 {
-  "version": "0.1.0-beta.7",
+  "version": "0.1.0-beta.8",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-mac-91f0784d/AciraBrowser-0.1.0-beta.7-mac-arm64-update.zip",
-      "sha512": "hIR0pi0AkVnTgXKuP6LEOaNcBnRhB+4Qzfmd8lBvkcRtp5hhOOFzRWPualnrlpe4BHAiWtkrehaISXdjzJKmtw==",
-      "size": 237310845
-    },
-    {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-mac-91f0784d/AciraBrowser-0.1.0-beta.7-mac-x64-update.zip",
-      "sha512": "74uLxMm68LzxuUBKqGzRT1rfzHvBNO+OoPlGDjk18jh+Wq+wvG5ZjXb6w+pzFtIsrWQ7ZXeN4itLCWKe54KZ4Q==",
-      "size": 245174985
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-arm64-update.zip",
+      "sha512": "brJc5Mdk4Zfj+bcNSs9YG4U35bivukJkN23zgisdpBbsVc4xlyQVYQ88g1ITzVSW8aLta2qPbM1kqQC8vsauyw==",
+      "size": 237317307
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.7-mac-91f0784d/AciraBrowser-0.1.0-beta.7-mac-arm64-update.zip",
-  "sha512": "hIR0pi0AkVnTgXKuP6LEOaNcBnRhB+4Qzfmd8lBvkcRtp5hhOOFzRWPualnrlpe4BHAiWtkrehaISXdjzJKmtw==",
-  "releaseDate": "2026-11-02T16:46:08.252Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-arm64-update.zip",
+  "sha512": "brJc5Mdk4Zfj+bcNSs9YG4U35bivukJkN23zgisdpBbsVc4xlyQVYQ88g1ITzVSW8aLta2qPbM1kqQC8vsauyw==",
+  "releaseDate": "2026-11-02T21:50:21.812Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.7",
-  "releaseNotes": "- Your tabs come back after quitting, even with several profiles.\n- Favorites are real tabs now: clicking one again takes you back to the same page.\n- Cookie banners are answered \"Reject all\" for you where a site allows it, and never hidden or accepted.\n- Site sign-in windows and dialogs (Reddit, Jack Westin and others) are never blocked.\n- Turning protection off for a site now really lets everything on it load.\n- Sites like Netflix video, Amazon and many file hosts are no longer blocked by mistake.\n- Faster animations when Animation speed is set to Fast.\n- One typeface across Acira: Inter.\n- Fullscreen fills the screen, and the top bar stays reachable.\n- The Back button no longer gets stuck on pages that redirect.\n- Many smaller fixes in navigation, Settings, translations, extensions and stability."
+  "releaseName": "Acira Browser 0.1.0-beta.8",
+  "releaseNotes": "- In full screen, Acira now has its own window buttons, and the top bar and sidebar slide in every time, in every view.\n- Menus no longer hide under the top bar.\n- A tab's hover tips stay clear of the buttons around them.\n- AI-free mode has its own icon.\n- Google and other sites no longer wait for a passkey Acira can't use yet: your other sign-in options show right away."
 }
