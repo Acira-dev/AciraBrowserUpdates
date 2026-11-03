@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.8",
+  "version": "0.1.0-beta.9",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-arm64-update.zip",
-      "sha512": "brJc5Mdk4Zfj+bcNSs9YG4U35bivukJkN23zgisdpBbsVc4xlyQVYQ88g1ITzVSW8aLta2qPbM1kqQC8vsauyw==",
-      "size": 237317307
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.9-mac-3692da5b/AciraBrowser-0.1.0-beta.9-mac-arm64-update.zip",
+      "sha512": "YsIkco+xzeYnTykST8UxjsIbCv9x2FzKzgLo25EUrM1G7GqEjpaTodA1XJAiIW2nIJ9mzkFG+n1l471pA/EX4A==",
+      "size": 237372896
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-x64-update.zip",
-      "sha512": "rT5c5PLWzh+QFMgM/ye2djUVHXIA5J9GJf12OpynTVYg6GqSsb5CVu10lC7NyM3X7sjASQw0sL9Dv6qIKNNNvA==",
-      "size": 245181463
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.9-mac-3692da5b/AciraBrowser-0.1.0-beta.9-mac-x64-update.zip",
+      "sha512": "19kJaHXwt2bxV5kbWPykeNQzEcnIZKbVpxpsuxEZfbmR3PZcTB6MPOJtP9pHDQ+yrF/M8HvyZQhjg4ttkrEX8A==",
+      "size": 245236970
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-mac-46902b78/AciraBrowser-0.1.0-beta.8-mac-arm64-update.zip",
-  "sha512": "brJc5Mdk4Zfj+bcNSs9YG4U35bivukJkN23zgisdpBbsVc4xlyQVYQ88g1ITzVSW8aLta2qPbM1kqQC8vsauyw==",
-  "releaseDate": "2026-11-02T21:50:21.812Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.9-mac-3692da5b/AciraBrowser-0.1.0-beta.9-mac-arm64-update.zip",
+  "sha512": "YsIkco+xzeYnTykST8UxjsIbCv9x2FzKzgLo25EUrM1G7GqEjpaTodA1XJAiIW2nIJ9mzkFG+n1l471pA/EX4A==",
+  "releaseDate": "2026-11-03T01:45:38.164Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.8",
-  "releaseNotes": "- In full screen, Acira now has its own window buttons, and the top bar and sidebar slide in every time, in every view.\n- Menus no longer hide under the top bar.\n- A tab's hover tips stay clear of the buttons around them.\n- AI-free mode has its own icon.\n- Google and other sites no longer wait for a passkey Acira can't use yet: your other sign-in options show right away."
+  "releaseName": "Acira Browser 0.1.0-beta.9",
+  "releaseNotes": "- New in Settings › Profiles: put all your profiles in one window as spaces, or keep each in its own window as before.\n- Pause the update download from the top bar. It picks up where it stopped, even after you quit Acira.\n- Report a problem from the Acira menu, about a website or about Acira itself. You see exactly what is sent.\n- The command bar only shows the history of the profile you're in.\n- In AI-free mode, the \"AI answer hidden\" line is easy to read on dark pages.\n- Check for updates no longer jumps when you press it.\n- Windows: from the next update on, Acira downloads only what changed.\n- Windows: with usage sharing on, uninstalling sends one anonymous message so we know someone left. Settings › Privacy shows it."
 }
