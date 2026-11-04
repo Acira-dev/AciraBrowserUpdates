@@ -1,9 +1,21 @@
-version: 0.1.0-beta.8
-files:
-  - url: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-windows-530845ad/AciraBrowserSetup-0.1.0-beta.8.exe
-    sha512: kwsXSMCjibTSoBGD9Fn2/hdCEsb7BFD8rAp2rvWr5vM+I0Wts5r7AtGn0jDUrCwklVGGUnoX5IDBKHKN3e4n0A==
-    size: 227614487
-path: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-windows-530845ad/AciraBrowserSetup-0.1.0-beta.8.exe
-sha512: kwsXSMCjibTSoBGD9Fn2/hdCEsb7BFD8rAp2rvWr5vM+I0Wts5r7AtGn0jDUrCwklVGGUnoX5IDBKHKN3e4n0A==
-releaseDate: '2026-11-02T16:30:58.712Z'
-releaseNotes: Windows-only beta 8 from upstream 91f0784d. Existing beta 7 installations can update through the Windows beta channel. Actual beta7-to-beta8 download, install-on-quit, relaunch and profile retention verified using an isolated QA identity. Existing Creation installer. Unsigned Windows x64. Mac releases unchanged.
+{
+  "version": "0.1.0-beta.10",
+  "files": [
+    {
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-windows-c2baba7d/AciraBrowserSetup.exe",
+      "sha512": "rIT/XKWAObe3n5Uo1RLrPGiw6VbExELrei2tSapTQzmBNPNnpKT/eBWHngGCL8kBfQ0GsRGaoeN7tkIQLms6qw==",
+      "size": 229231924
+    }
+  ],
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-windows-c2baba7d/AciraBrowserSetup.exe",
+  "sha512": "rIT/XKWAObe3n5Uo1RLrPGiw6VbExELrei2tSapTQzmBNPNnpKT/eBWHngGCL8kBfQ0GsRGaoeN7tkIQLms6qw==",
+  "releaseDate": "2026-11-04T22:02:45.482Z",
+  "releaseName": "Acira Browser 0.1.0-beta.10",
+  "releaseNotes": "- Switching between profiles is smooth: the new one appears in one step.\n- Tabs, sleeping tabs and the sidebar are easier to read on every finish, in light mode and private windows too.\n- \"Ask where to save\" shows one Save dialog, and downloads with the same name no longer overwrite each other.\n- Windows: unlocking a workspace or a saved password no longer alarms Norton and other antivirus apps. If one removed Acira, reinstall it: your data is safe.\n- Mac: when a site asks for a passkey, Acira says it can't use passkeys yet, so you can sign in with your password.\n- An address with no secure connection now asks before opening it unsecured.\n- Damaged saved data no longer leaves you stuck, and a window that stops working offers to restart with your tabs.\n- Update downloads pick up where they stopped. Plus many smaller fixes.",
+  "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.8",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-windows-530845ad/AciraBrowserSetup-0.1.0-beta.8.exe.blockmap"
+    }
+  ]
+}

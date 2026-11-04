@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.9",
+  "version": "0.1.0-beta.10",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.9-mac-3692da5b/AciraBrowser-0.1.0-beta.9-mac-arm64-update.zip",
-      "sha512": "YsIkco+xzeYnTykST8UxjsIbCv9x2FzKzgLo25EUrM1G7GqEjpaTodA1XJAiIW2nIJ9mzkFG+n1l471pA/EX4A==",
-      "size": 237372896
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-mac-f809862b/AciraBrowser-0.1.0-beta.10-mac-arm64-update.zip",
+      "sha512": "hbTzlv9vyOVxu0ssMSj1T6hpNDq42k2MBSzDrI9+zoHp16F6pYLfldlUg56iVED014f9v6SegfyZOwE6TjzlFQ==",
+      "size": 237437625
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.9-mac-3692da5b/AciraBrowser-0.1.0-beta.9-mac-x64-update.zip",
-      "sha512": "19kJaHXwt2bxV5kbWPykeNQzEcnIZKbVpxpsuxEZfbmR3PZcTB6MPOJtP9pHDQ+yrF/M8HvyZQhjg4ttkrEX8A==",
-      "size": 245236970
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-mac-f809862b/AciraBrowser-0.1.0-beta.10-mac-x64-update.zip",
+      "sha512": "V/jx+H1IInj2htODU+lW3Zc1V2tNxKD50vW3ywdJRUCULE3dqzuMi0OeKUB8/67trpzuqTHMMxrBpgcR+uIaqg==",
+      "size": 245301714
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.9-mac-3692da5b/AciraBrowser-0.1.0-beta.9-mac-arm64-update.zip",
-  "sha512": "YsIkco+xzeYnTykST8UxjsIbCv9x2FzKzgLo25EUrM1G7GqEjpaTodA1XJAiIW2nIJ9mzkFG+n1l471pA/EX4A==",
-  "releaseDate": "2026-11-03T01:45:38.164Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-mac-f809862b/AciraBrowser-0.1.0-beta.10-mac-arm64-update.zip",
+  "sha512": "hbTzlv9vyOVxu0ssMSj1T6hpNDq42k2MBSzDrI9+zoHp16F6pYLfldlUg56iVED014f9v6SegfyZOwE6TjzlFQ==",
+  "releaseDate": "2026-11-04T22:02:45.482Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.9",
-  "releaseNotes": "- New in Settings › Profiles: put all your profiles in one window as spaces, or keep each in its own window as before.\n- Pause the update download from the top bar. It picks up where it stopped, even after you quit Acira.\n- Report a problem from the Acira menu, about a website or about Acira itself. You see exactly what is sent.\n- The command bar only shows the history of the profile you're in.\n- In AI-free mode, the \"AI answer hidden\" line is easy to read on dark pages.\n- Check for updates no longer jumps when you press it.\n- Windows: from the next update on, Acira downloads only what changed.\n- Windows: with usage sharing on, uninstalling sends one anonymous message so we know someone left. Settings › Privacy shows it."
+  "releaseName": "Acira Browser 0.1.0-beta.10",
+  "releaseNotes": "- Switching between profiles is smooth: the new one appears in one step.\n- Tabs, sleeping tabs and the sidebar are easier to read on every finish, in light mode and private windows too.\n- \"Ask where to save\" shows one Save dialog, and downloads with the same name no longer overwrite each other.\n- Windows: unlocking a workspace or a saved password no longer alarms Norton and other antivirus apps. If one removed Acira, reinstall it: your data is safe.\n- Mac: when a site asks for a passkey, Acira says it can't use passkeys yet, so you can sign in with your password.\n- An address with no secure connection now asks before opening it unsecured.\n- Damaged saved data no longer leaves you stuck, and a window that stops working offers to restart with your tabs.\n- Update downloads pick up where they stopped. Plus many smaller fixes."
 }
