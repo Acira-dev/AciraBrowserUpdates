@@ -1,0 +1,10 @@
+version: 0.1.0-beta.10
+files:
+  - url: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-linux-d1f68284/AciraBrowser-0.1.0-beta.10-linux-x86_64.AppImage
+    sha512: LBXSEN+njek0FlZ1A4bEjVkBKQLAuPJp2P6wZs1Koyyywq+P4ziifgMlKBnzvadHc7MaVwHBZJpMuqBte0RuAQ==
+    size: 241470650
+path: https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-linux-d1f68284/AciraBrowser-0.1.0-beta.10-linux-x86_64.AppImage
+sha512: LBXSEN+njek0FlZ1A4bEjVkBKQLAuPJp2P6wZs1Koyyywq+P4ziifgMlKBnzvadHc7MaVwHBZJpMuqBte0RuAQ==
+releaseDate: '2026-11-05T00:01:16.170Z'
+releaseName: Acira Browser 0.1.0-beta.10 for Linux
+releaseNotes: The first Linux beta of Acira.
