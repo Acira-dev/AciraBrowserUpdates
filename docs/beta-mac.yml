@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.11",
+  "version": "0.1.0-beta.12",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.11-mac-a7a04806/AciraBrowser-0.1.0-beta.11-mac-arm64-update.zip",
-      "sha512": "AwHNsPjVmw7LFbkPOiMn1hRvAjp+w3dnXRFRkmg6xao5FjW/MhLQc64Dbh769SSqIFe03oqdoSVdQOfyL4wQag==",
-      "size": 237557622
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-mac-994686e6/AciraBrowser-0.1.0-beta.12-mac-arm64-update.zip",
+      "sha512": "uNkw5+bUAj8nW5w9RyEHP78kCJ83BzkgbW8vYcKvauC3v5RkyWMy29jac5DENbekvwhDJkv/M/WN0YBGByMkYQ==",
+      "size": 237581585
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.11-mac-a7a04806/AciraBrowser-0.1.0-beta.11-mac-x64-update.zip",
-      "sha512": "X7y9uk+oxrlB/leRnB5ZkYRFSy7vkTtkGxk8Xy2KaMw8XvLc2oLpZZTIxII680KmDq/iWTMJZLGouJzr2fZB8w==",
-      "size": 245421782
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-mac-994686e6/AciraBrowser-0.1.0-beta.12-mac-x64-update.zip",
+      "sha512": "DV9aK+V7MtWfElPIOGhLME9QD6uVGvXxQ6gyPmg+NcS8CoF+BgiVD2mBeLZg4y4wC8V2+h3jEkpwbub4H09eqA==",
+      "size": 245445745
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.11-mac-a7a04806/AciraBrowser-0.1.0-beta.11-mac-arm64-update.zip",
-  "sha512": "AwHNsPjVmw7LFbkPOiMn1hRvAjp+w3dnXRFRkmg6xao5FjW/MhLQc64Dbh769SSqIFe03oqdoSVdQOfyL4wQag==",
-  "releaseDate": "2026-11-07T12:59:35.026Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-mac-994686e6/AciraBrowser-0.1.0-beta.12-mac-arm64-update.zip",
+  "sha512": "uNkw5+bUAj8nW5w9RyEHP78kCJ83BzkgbW8vYcKvauC3v5RkyWMy29jac5DENbekvwhDJkv/M/WN0YBGByMkYQ==",
+  "releaseDate": "2026-11-07T19:21:37.124Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.11",
-  "releaseNotes": "- Updates reach you sooner: Acira looks for one every couple of hours, and again when your computer wakes up, instead of every 8 hours.\n- The address bar can sit in the sidebar. Sidebar mode moves tabs, the address bar and its buttons there in one smooth motion, with nothing left above the page. Right-click a sidebar section to hide it or customize the sidebar.\n- The address bar answers simple sums, unit conversions and \"time in\" a city, and finds Acira commands like Picture in picture or Settings.\n- Choose how fast the hidden sidebar and toolbar appear: Premium, Fast, or None for no animation.\n- Hold Cmd (Ctrl on Windows and Linux) to see each tab's number.\n- Mac: swipe with two fingers to go back or forward, and hold the swipe to pick an earlier page.\n- Block scripts on a site from its site menu, or everywhere from Settings. Extensions can run in private tabs if you allow them.\n- Favorites look the same however you add them, and the tab stays in your list. Tab groups in the sidebar look and open like folders.\n- Zooming with plus and minus glides like a pinch. Site icons are sharper everywhere.\n- Extension pop-ups open under their icon and are framed like Acira's own menus.\n- After you click in the sidebar or come back from another app, the page gets the keyboard again, so Space pauses and plays videos.\n- \"Continue with Google\" works on sites like Pinterest. A new install stays quiet until you finish setup.\n- Linux: Acira can match your system theme. Plus smoother view switching and many smaller fixes."
+  "releaseName": "Acira Browser 0.1.0-beta.12",
+  "releaseNotes": "- The address bar in the sidebar glides into editing when you click it, and the line under it opens its buttons sooner without losing what you typed.\n- Hold Ctrl (Cmd on Mac) and type two digits to jump to tab 10 and beyond.\n- Put a tab, a group or a whole workspace to sleep from its menu. Sleeping tabs are now easy to spot.\n- Tab groups fold the moment you click them.\n- WhatsApp Web opens again.\n- Closed tabs no longer come back after a restart, and you can choose what opens when Acira starts: where you left off, or a New Tab.\n- Windows and Linux: in Sidebar mode, back, reload and forward sit in the left corner.\n- What's new shows the whole list with more room, and About names the release."
 }
