@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0-beta.10",
+  "version": "0.1.0-beta.11",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-windows-c2baba7d/AciraBrowserSetup.exe",
-      "sha512": "rIT/XKWAObe3n5Uo1RLrPGiw6VbExELrei2tSapTQzmBNPNnpKT/eBWHngGCL8kBfQ0GsRGaoeN7tkIQLms6qw==",
-      "size": 229231924
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.11-windows-88c64942/AciraBrowserSetup.exe",
+      "sha512": "OmY5wIyiFoWabu/3DpTyif0pZS/f6E2cOE+9Y0nQPIYSFjDP+oZUeFAq/Z81UDKmZr/bFKKcw2bd8p6prnTFNg==",
+      "size": 228788368
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-windows-c2baba7d/AciraBrowserSetup.exe",
-  "sha512": "rIT/XKWAObe3n5Uo1RLrPGiw6VbExELrei2tSapTQzmBNPNnpKT/eBWHngGCL8kBfQ0GsRGaoeN7tkIQLms6qw==",
-  "releaseDate": "2026-11-04T22:02:45.482Z",
-  "releaseName": "Acira Browser 0.1.0-beta.10",
-  "releaseNotes": "- Switching between profiles is smooth: the new one appears in one step.\n- Tabs, sleeping tabs and the sidebar are easier to read on every finish, in light mode and private windows too.\n- \"Ask where to save\" shows one Save dialog, and downloads with the same name no longer overwrite each other.\n- Windows: unlocking a workspace or a saved password no longer alarms Norton and other antivirus apps. If one removed Acira, reinstall it: your data is safe.\n- Mac: when a site asks for a passkey, Acira says it can't use passkeys yet, so you can sign in with your password.\n- An address with no secure connection now asks before opening it unsecured.\n- Damaged saved data no longer leaves you stuck, and a window that stops working offers to restart with your tabs.\n- Update downloads pick up where they stopped. Plus many smaller fixes.",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.11-windows-88c64942/AciraBrowserSetup.exe",
+  "sha512": "OmY5wIyiFoWabu/3DpTyif0pZS/f6E2cOE+9Y0nQPIYSFjDP+oZUeFAq/Z81UDKmZr/bFKKcw2bd8p6prnTFNg==",
+  "releaseDate": "2026-11-07T13:00:59.744Z",
+  "releaseName": "Acira Browser 0.1.0-beta.11",
+  "releaseNotes": "- Updates reach you sooner: Acira looks for one every couple of hours, and again when your computer wakes up, instead of every 8 hours.\n- The address bar can sit in the sidebar. Sidebar mode moves tabs, the address bar and its buttons there in one smooth motion, with nothing left above the page. Right-click a sidebar section to hide it or customize the sidebar.\n- The address bar answers simple sums, unit conversions and \"time in\" a city, and finds Acira commands like Picture in picture or Settings.\n- Choose how fast the hidden sidebar and toolbar appear: Premium, Fast, or None for no animation.\n- Hold Cmd (Ctrl on Windows and Linux) to see each tab's number.\n- Mac: swipe with two fingers to go back or forward, and hold the swipe to pick an earlier page.\n- Block scripts on a site from its site menu, or everywhere from Settings. Extensions can run in private tabs if you allow them.\n- Favorites look the same however you add them, and the tab stays in your list. Tab groups in the sidebar look and open like folders.\n- Zooming with plus and minus glides like a pinch. Site icons are sharper everywhere.\n- Extension pop-ups open under their icon and are framed like Acira's own menus.\n- After you click in the sidebar or come back from another app, the page gets the keyboard again, so Space pauses and plays videos.\n- \"Continue with Google\" works on sites like Pinterest. A new install stays quiet until you finish setup.\n- Linux: Acira can match your system theme. Plus smoother view switching and many smaller fixes.",
   "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.10",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.10-windows-c2baba7d/AciraBrowserSetup.exe.blockmap"
+    },
     {
       "version": "0.1.0-beta.8",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.8-windows-530845ad/AciraBrowserSetup-0.1.0-beta.8.exe.blockmap"
