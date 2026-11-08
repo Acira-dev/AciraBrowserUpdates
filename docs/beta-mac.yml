@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.13.1",
+  "version": "0.1.0-beta.13.2",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.1-mac-0f2ab90e/AciraBrowser-0.1.0-beta.13.1-mac-arm64-update.zip",
-      "sha512": "GrEvU/PjbksNhofXsvcvQDgM4a3RGiZ0rYB6skXrFJ142iyQTcUzLYJwO5FkRlXJwjWTh/yzvyL+NTdGXzcW6g==",
-      "size": 237698814
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-mac-17026663/AciraBrowser-0.1.0-beta.13.2-mac-arm64-update.zip",
+      "sha512": "GK2i6rC2AcUD35mD8N+A3uBL/GRRsf0d4NoX0LgIdFxbb67KxT1EjKLkq2I6xlDlHa8B4+sEKzEs2+RTmSZNng==",
+      "size": 237661999
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.1-mac-0f2ab90e/AciraBrowser-0.1.0-beta.13.1-mac-x64-update.zip",
-      "sha512": "JotUcOpbU6JNxB6SDoVp4R9Ma6TNcBp6o7rSG4EEEbp7VfIRvX65FmY4gg0LGgdSTlTIJlkcC1NkzPPPVhFRBg==",
-      "size": 245562952
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-mac-17026663/AciraBrowser-0.1.0-beta.13.2-mac-x64-update.zip",
+      "sha512": "ciWxEpgJmq1CqM0czfz8YhIvVyoCduThV/yDUSAJOwexRjFN2PuDbJ80Eq8bETwE3ahYwBOYrMnj0Jjx2Jgvlw==",
+      "size": 245526153
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.1-mac-0f2ab90e/AciraBrowser-0.1.0-beta.13.1-mac-arm64-update.zip",
-  "sha512": "GrEvU/PjbksNhofXsvcvQDgM4a3RGiZ0rYB6skXrFJ142iyQTcUzLYJwO5FkRlXJwjWTh/yzvyL+NTdGXzcW6g==",
-  "releaseDate": "2026-11-08T12:49:14.488Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-mac-17026663/AciraBrowser-0.1.0-beta.13.2-mac-arm64-update.zip",
+  "sha512": "GK2i6rC2AcUD35mD8N+A3uBL/GRRsf0d4NoX0LgIdFxbb67KxT1EjKLkq2I6xlDlHa8B4+sEKzEs2+RTmSZNng==",
+  "releaseDate": "2026-11-08T21:29:59.381Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.13.1",
-  "releaseNotes": "- Tab numbers show sooner and look crisper. The New tab row only shows its count when you point at it.\n- Fast is now clearly faster than Premium.\n- Extensions: Floccus and other bookmark sync can add and change bookmarks, popups like Surfshark's are no longer cut off, YouTube Inline Fullscreen works, and Bitwarden's autofill, badge and default-password-manager setting are fixed.\n- Extension shortcuts are easy to find from Settings › Extensions or the extensions menu, and the keys you set are kept.\n- Updates recover by themselves after a pause, a lost connection or a full disk. A failed download says so and offers Try again.\n- The update stays in view when you switch layouts.\n- Windows: the Apps list shows the right version.\n- Clearer Settings text, and Reset appearance now covers Site colour."
+  "releaseName": "Acira Browser 0.1.0-beta.13.2",
+  "releaseNotes": "- Pages and images open in a new tab again with download-manager extensions (like Mister Download Manager) installed.\n- New: Hide the toolbar. With tabs in the sidebar, the top bar can hide and comes back when you point at the top edge.\n- Right-click works inside a link preview.\n- Downloads: Delete file moves a file to the Trash or Recycle Bin, and you can drag a download into a site, a folder or an app.\n- Updates: a stopped download says so and retries. With the address in the sidebar, the line under it shows the download.\n- Fast is fast everywhere, and pinned tabs can rest when memory is tight.\n- Extensions: shortcuts work in private windows, Floccus syncs big libraries in seconds, and Bitwarden works on reopened tabs.\n- Tab glow is no longer cut off, and on Windows the window buttons appear all at once.\n- Settings no longer has Back to browser."
 }
