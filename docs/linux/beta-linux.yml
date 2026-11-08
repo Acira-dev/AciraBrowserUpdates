@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-beta.12",
+  "version": "0.1.0-beta.13",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-linux-994686e6/AciraBrowser-0.1.0-beta.12-linux-x86_64.AppImage",
-      "sha512": "095Sna711jDkbOUUXhZxVE1DYUVdqAkxct8bg+in6bR5DZi1MQRQ0XgzX+1q+kQdkK2A5bCOIXXUGHjhhYcH4w==",
-      "size": 241602482
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13-linux-812c9acf/AciraBrowser-0.1.0-beta.13-linux-x86_64.AppImage",
+      "sha512": "j/SBUMPE3zutXF4UjvzJ8Zpp3y65qVqQH0HRZM4bgdP4CgF/5gub3GO0w0H5okiGakbRQW5z4MXkxmNH/utBGA==",
+      "size": 241696055
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-linux-994686e6/AciraBrowser-0.1.0-beta.12-linux-x86_64.AppImage",
-  "sha512": "095Sna711jDkbOUUXhZxVE1DYUVdqAkxct8bg+in6bR5DZi1MQRQ0XgzX+1q+kQdkK2A5bCOIXXUGHjhhYcH4w==",
-  "releaseDate": "2026-11-07T20:02:34.034Z",
-  "releaseName": "Acira Browser 0.1.0-beta.12",
-  "releaseNotes": "- The address bar in the sidebar glides into editing when you click it, and the line under it opens its buttons sooner without losing what you typed.\n- Hold Ctrl (Cmd on Mac) and type two digits to jump to tab 10 and beyond.\n- Put a tab, a group or a whole workspace to sleep from its menu. Sleeping tabs are now easy to spot.\n- Tab groups fold the moment you click them.\n- WhatsApp Web opens again.\n- Closed tabs no longer come back after a restart, and you can choose what opens when Acira starts: where you left off, or a New Tab.\n- Windows and Linux: in Sidebar mode, back, reload and forward sit in the left corner.\n- What's new shows the whole list with more room, and About names the release."
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13-linux-812c9acf/AciraBrowser-0.1.0-beta.13-linux-x86_64.AppImage",
+  "sha512": "j/SBUMPE3zutXF4UjvzJ8Zpp3y65qVqQH0HRZM4bgdP4CgF/5gub3GO0w0H5okiGakbRQW5z4MXkxmNH/utBGA==",
+  "releaseDate": "2026-11-08T02:13:30.321Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13",
+  "releaseNotes": "- Site colour: the sidebar and top bar take on the colour of the site you're on. Choose Off, Soft or Rich in Appearance.\n- Tabs can sit along the top, in a sidebar, or in a sidebar with the address bar.\n- Put the sidebar on the right, and make it Narrow, Standard or Wide.\n- Tab groups become folders with their own area, and a + opens a new tab inside a group.\n- Favorites can sit at the top or bottom, with a ring in the site's colour. You choose whether their tabs also show in the list.\n- Drag tabs and groups to another workspace.\n- Rounder tabs, and the selected tab's glow moves with you. The glow from playing artwork now reaches the sidebar.\n- A marker shows which tab has a link preview open.\n- A Pull requests folder can keep your GitHub pull requests up to date.\n- Windows: the page reaches the top, and the window buttons show in a small notch when you point there."
 }
