@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0-beta.13",
+  "version": "0.1.0-beta.13.1",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13-windows-812c9acf/AciraBrowserSetup.exe",
-      "sha512": "Y8TD82N/k4kCdI6eP5QtS1GMPcNWKavBwoYq940NNw2MxFJkR3nrWIIIbCREXgDpfsf26w8NjjTvd+e204JcCw==",
-      "size": 228980489
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.1-windows-0f2ab90e/AciraBrowserSetup.exe",
+      "sha512": "1NBIWfod93ptV51G9N4sVR+MsR4oujZKZ4ABJYlTCDEnK/+L+GVHWzjdBdKQ8GGSZpCxHa2pXHfIbf8wsZO+ng==",
+      "size": 229018137
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13-windows-812c9acf/AciraBrowserSetup.exe",
-  "sha512": "Y8TD82N/k4kCdI6eP5QtS1GMPcNWKavBwoYq940NNw2MxFJkR3nrWIIIbCREXgDpfsf26w8NjjTvd+e204JcCw==",
-  "releaseDate": "2026-11-08T02:13:30.321Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13",
-  "releaseNotes": "- Site colour: the sidebar and top bar take on the colour of the site you're on. Choose Off, Soft or Rich in Appearance.\n- Tabs can sit along the top, in a sidebar, or in a sidebar with the address bar.\n- Put the sidebar on the right, and make it Narrow, Standard or Wide.\n- Tab groups become folders with their own area, and a + opens a new tab inside a group.\n- Favorites can sit at the top or bottom, with a ring in the site's colour. You choose whether their tabs also show in the list.\n- Drag tabs and groups to another workspace.\n- Rounder tabs, and the selected tab's glow moves with you. The glow from playing artwork now reaches the sidebar.\n- A marker shows which tab has a link preview open.\n- A Pull requests folder can keep your GitHub pull requests up to date.\n- Windows: the page reaches the top, and the window buttons show in a small notch when you point there.",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.1-windows-0f2ab90e/AciraBrowserSetup.exe",
+  "sha512": "1NBIWfod93ptV51G9N4sVR+MsR4oujZKZ4ABJYlTCDEnK/+L+GVHWzjdBdKQ8GGSZpCxHa2pXHfIbf8wsZO+ng==",
+  "releaseDate": "2026-11-08T13:19:14.047Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.1",
+  "releaseNotes": "- Tab numbers show sooner and look crisper. The New tab row only shows its count when you point at it.\n- Fast is now clearly faster than Premium.\n- Extensions: Floccus and other bookmark sync can add and change bookmarks, popups like Surfshark's are no longer cut off, YouTube Inline Fullscreen works, and Bitwarden's autofill, badge and default-password-manager setting are fixed.\n- Extension shortcuts are easy to find from Settings › Extensions or the extensions menu, and the keys you set are kept.\n- Updates recover by themselves after a pause, a lost connection or a full disk. A failed download says so and offers Try again.\n- The update stays in view when you switch layouts.\n- Windows: the Apps list shows the right version.\n- Clearer Settings text, and Reset appearance now covers Site colour.",
   "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.13",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13-windows-812c9acf/AciraBrowserSetup.exe.blockmap"
+    },
     {
       "version": "0.1.0-beta.12",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-windows-994686e6/AciraBrowserSetup.exe.blockmap"
