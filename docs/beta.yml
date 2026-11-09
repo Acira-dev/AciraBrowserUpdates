@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0-beta.13.2",
+  "version": "0.1.0-beta.13.3",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-windows-17026663/AciraBrowserSetup.exe",
-      "sha512": "zU8h97Gr9il5kL5/HRpxJAIofMV3dEL141yFTe/1rsamyeDq3VzcUAEVZ6gF5AcaVPf0Et3dYkb+u/+cgGF0SQ==",
-      "size": 229027843
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.3-windows-9123f345/AciraBrowserSetup.exe",
+      "sha512": "fWUPxOawZc1mGCjPPjxwluE4BK5drstg89tjEETLuv4ukWLjc7AJ+1InX33U+K1+WsEM3cp98vc8NxN5N9r2Pg==",
+      "size": 229125499
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-windows-17026663/AciraBrowserSetup.exe",
-  "sha512": "zU8h97Gr9il5kL5/HRpxJAIofMV3dEL141yFTe/1rsamyeDq3VzcUAEVZ6gF5AcaVPf0Et3dYkb+u/+cgGF0SQ==",
-  "releaseDate": "2026-11-08T21:13:03.704Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.2",
-  "releaseNotes": "- Pages and images open in a new tab again with download-manager extensions (like Mister Download Manager) installed.\n- New: Hide the toolbar. With tabs in the sidebar, the top bar can hide and comes back when you point at the top edge.\n- Right-click works inside a link preview.\n- Downloads: Delete file moves a file to the Trash or Recycle Bin, and you can drag a download into a site, a folder or an app.\n- Updates: a stopped download says so and retries. With the address in the sidebar, the line under it shows the download.\n- Fast is fast everywhere, and pinned tabs can rest when memory is tight.\n- Extensions: shortcuts work in private windows, Floccus syncs big libraries in seconds, and Bitwarden works on reopened tabs.\n- Tab glow is no longer cut off, and on Windows the window buttons appear all at once.\n- Settings no longer has Back to browser.",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.3-windows-9123f345/AciraBrowserSetup.exe",
+  "sha512": "fWUPxOawZc1mGCjPPjxwluE4BK5drstg89tjEETLuv4ukWLjc7AJ+1InX33U+K1+WsEM3cp98vc8NxN5N9r2Pg==",
+  "releaseDate": "2026-11-09T04:20:41.054Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.3",
+  "releaseNotes": "- Switching between three or more profiles no longer flashes, lags or gets stuck on \"Acira couldn't display this view\".\n- New: Website appearance in Settings › Appearance. Websites can follow System, Light, Dark or Always dark, and you can leave one site out from its right-click menu.\n- Extensions: buttons work on the New Tab page and keep their order, and links in popups open as tabs.\n- Extension rules that depend on response headers work like in Chrome.\n- Downloads: Retry works every time, and a second archive.tar.gz is saved as archive (1).tar.gz.\n- A tab moved to a new window keeps its name, mute and pin.\n- Typed addresses offer http again when a site has no secure version, and Back works from error pages.\n- Windows: files named like devices, very long paths, Open with and Alt codes now work.\n- Acira uses a little less memory, and Floccus keeps the Bookmarks bar in order.",
   "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.13.2",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-windows-17026663/AciraBrowserSetup.exe.blockmap"
+    },
     {
       "version": "0.1.0-beta.13.1",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.1-windows-0f2ab90e/AciraBrowserSetup.exe.blockmap"
