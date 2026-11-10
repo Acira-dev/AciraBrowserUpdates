@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0-beta.13.5",
+  "version": "0.1.0-beta.13.6",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-windows-a82cb60f/AciraBrowserSetup.exe",
-      "sha512": "46G0hrngbvRbFM7Yd9wm6JYMk2B6fqDuV8I50k2q1WSYnhfP+m9CrgEVGjdDIbAYfPCXBU/ELLy4dDZv51UQ1w==",
-      "size": 229083794
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.6-windows-acfcb1e7/AciraBrowserSetup.exe",
+      "sha512": "nYsHKgPHGPpspTjs6ai3TGU4UgxhvtF2uN039Qf1rNSdep21tVwELPh+GX3KGzoG4zxYZFhxr80oHYgFS8oryA==",
+      "size": 229099579
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-windows-a82cb60f/AciraBrowserSetup.exe",
-  "sha512": "46G0hrngbvRbFM7Yd9wm6JYMk2B6fqDuV8I50k2q1WSYnhfP+m9CrgEVGjdDIbAYfPCXBU/ELLy4dDZv51UQ1w==",
-  "releaseDate": "2026-11-10T12:29:44.094Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.5",
-  "releaseNotes": "- Installing a site as an app no longer closes Acira on Mac when the site has no icon.\n- A page asking \"Leave this site?\" no longer freezes Acira.\n- Always dark stays on when you zoom or open a link preview as a tab, and dark tabs can sleep again.\n- The site glow slides in with the sidebar, and a new page gets its colour sooner.\n- Without graphics acceleration, Reduce motion turns on by itself so Acira stays smooth.\n- Pinned extensions also sit at the top of the sidebar, and on Linux their popups open inside the window.\n- With the address bar in the sidebar, the sidebar stays open in Full and its button no longer misses a quick second press.\n- A download running when you quit can be resumed, and a full disk now says so.\n- Extension buttons work in private windows, and links from extension windows open as tabs.\n- Typing a Space's name in the command bar no longer closes tabs, and a damaged saved window no longer stops Acira from starting.\n- Acira uses less memory.",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.6-windows-acfcb1e7/AciraBrowserSetup.exe",
+  "sha512": "nYsHKgPHGPpspTjs6ai3TGU4UgxhvtF2uN039Qf1rNSdep21tVwELPh+GX3KGzoG4zxYZFhxr80oHYgFS8oryA==",
+  "releaseDate": "2026-11-10T22:29:42.722Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.6",
+  "releaseNotes": "- Split view and Seamless are much smoother: sites no longer redraw themselves on every frame while the sidebar or toolbar slides.\n- On Windows, the buttons of the top-right split pane no longer sit under the window buttons (Sidebar + address, Seamless, or with the toolbar hidden).\n- Switching tabs shows the page sooner.\n- After a zoom, the address bar shows the new size for 2 seconds, then a small magnifier. Right-click the magnifier or the bookmark star to hide it.\n- Address suggestions no longer say \"From your history\" under each row.\n- Right-click Acira in the Windows taskbar, the Mac Dock or the Linux launcher for New window and New private window.\n- \"Applies to: This profile\" now keeps that profile's finish and colours too.\n- The sidebar button no longer misses a quick third press, and the tab list no longer jumps when you switch tabs with a pinned extension.",
   "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.13.5",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-windows-a82cb60f/AciraBrowserSetup.exe.blockmap"
+    },
     {
       "version": "0.1.0-beta.13.4",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-windows-24e08e3c/AciraBrowserSetup.exe.blockmap"
@@ -32,10 +36,6 @@
     {
       "version": "0.1.0-beta.13",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13-windows-812c9acf/AciraBrowserSetup.exe.blockmap"
-    },
-    {
-      "version": "0.1.0-beta.12",
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.12-windows-994686e6/AciraBrowserSetup.exe.blockmap"
     }
   ]
 }
