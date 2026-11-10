@@ -1,21 +1,21 @@
 {
-  "version": "0.1.0-beta.13.4",
+  "version": "0.1.0-beta.13.5",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-mac-24e08e3c/AciraBrowser-0.1.0-beta.13.4-mac-arm64-update.zip",
-      "sha512": "KKi2FOt5ackESvA85NlajcVABKCc3ilXqUNzx9hTA3d87o052SdKmMZwxpMKV5k/lMeKTkFghKQyKtW+jMmIog==",
-      "size": 237392091
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-mac-a5190aec/AciraBrowser-0.1.0-beta.13.5-mac-arm64-update.zip",
+      "sha512": "3C1C8YWY2/dLoARcd97eQEyU3EuZW5DhqghYa1icUYKJyfoQCpd4lw10TTTcNTX1ex9QpXXq8g8PVr/8apM06g==",
+      "size": 237428604
     },
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-mac-24e08e3c/AciraBrowser-0.1.0-beta.13.4-mac-x64-update.zip",
-      "sha512": "ovRKdJ/dc41JPI+sJrwL3n43BGBJNlT3F3UsJzXnv1owLaR7XKRqkhMRrwJ+LlqtzNLA11+lzxb2t7AMn+2VTA==",
-      "size": 245256225
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-mac-a5190aec/AciraBrowser-0.1.0-beta.13.5-mac-x64-update.zip",
+      "sha512": "6QWkck2bo/XT4crPTxVuLrw3JYglbnO6yaHV2mcZOcC8nPID35P8rzCL2L6SK1TVpghhcJIqFCgCAN2AW0TwAA==",
+      "size": 245292742
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-mac-24e08e3c/AciraBrowser-0.1.0-beta.13.4-mac-arm64-update.zip",
-  "sha512": "KKi2FOt5ackESvA85NlajcVABKCc3ilXqUNzx9hTA3d87o052SdKmMZwxpMKV5k/lMeKTkFghKQyKtW+jMmIog==",
-  "releaseDate": "2026-11-09T15:24:20.115Z",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-mac-a5190aec/AciraBrowser-0.1.0-beta.13.5-mac-arm64-update.zip",
+  "sha512": "3C1C8YWY2/dLoARcd97eQEyU3EuZW5DhqghYa1icUYKJyfoQCpd4lw10TTTcNTX1ex9QpXXq8g8PVr/8apM06g==",
+  "releaseDate": "2026-11-10T12:40:47.125Z",
   "minimumSystemVersion": "22.0.0",
-  "releaseName": "Acira Browser 0.1.0-beta.13.4",
-  "releaseNotes": "- Clicking a Favorite keeps you in the workspace you are in: its tab comes to you.\n- Right-click in a link preview works every time, and the menu closes when you click elsewhere.\n- Switching between three or more profiles no longer flashes, lags or gets stuck.\n- New: Website appearance in Settings › Appearance. Websites can follow System, Light, Dark or Always dark, and you can leave one site out from its right-click menu.\n- Extensions: buttons work on the New Tab page and keep their order, links in popups open as tabs, and rules that depend on response headers work like in Chrome.\n- Downloads: Retry works every time, and a second archive.tar.gz is saved as archive (1).tar.gz.\n- A tab moved to a new window keeps its name, mute and pin.\n- Typed addresses offer http again when a site has no secure version, and Back works from error pages.\n- Acira uses a little less memory, and Floccus keeps the Bookmarks bar in order."
+  "releaseName": "Acira Browser 0.1.0-beta.13.5",
+  "releaseNotes": "- Installing a site as an app no longer closes Acira on Mac when the site has no icon.\n- A page asking \"Leave this site?\" no longer freezes Acira.\n- Always dark stays on when you zoom or open a link preview as a tab, and dark tabs can sleep again.\n- The site glow slides in with the sidebar, and a new page gets its colour sooner.\n- Without graphics acceleration, Reduce motion turns on by itself so Acira stays smooth.\n- Pinned extensions also sit at the top of the sidebar, and on Linux their popups open inside the window.\n- With the address bar in the sidebar, the sidebar stays open in Full and its button no longer misses a quick second press.\n- A download running when you quit can be resumed, and a full disk now says so.\n- Extension buttons work in private windows, and links from extension windows open as tabs.\n- Typing a Space's name in the command bar no longer closes tabs, and a damaged saved window no longer stops Acira from starting.\n- Acira uses less memory."
 }
