@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-beta.13.4",
+  "version": "0.1.0-beta.13.5",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-linux-24e08e3c/AciraBrowser-0.1.0-beta.13.4-linux-x86_64.AppImage",
-      "sha512": "jLjzN/IZOYNoXkqi+K25D7w+DgdCWvkI38uhwDZj16Aex/XfTuAEY2KaWgFtyKYF96SYzhmFpmBe81qY2CW6AA==",
-      "size": 241806311
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-linux-a82cb60f/AciraBrowser-0.1.0-beta.13.5-linux-x86_64.AppImage",
+      "sha512": "/4Lkeog8l85I6IgZC/aCEUAWfuTHPNIYTtW/sgjdRJnuf52wexyZrmjqO3jR/0q8ofrYFOPT5oprrkjmrNNa3Q==",
+      "size": 241839940
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-linux-24e08e3c/AciraBrowser-0.1.0-beta.13.4-linux-x86_64.AppImage",
-  "sha512": "jLjzN/IZOYNoXkqi+K25D7w+DgdCWvkI38uhwDZj16Aex/XfTuAEY2KaWgFtyKYF96SYzhmFpmBe81qY2CW6AA==",
-  "releaseDate": "2026-11-09T14:52:59.330Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.4",
-  "releaseNotes": "- Website appearance no longer closes Acira: Always dark, Light and Dark now work on every site, including YouTube and Google Maps.\n- Clicking a Favorite keeps you in the workspace you are in: its tab comes to you.\n- Right-click in a link preview works every time, and the menu closes when you click elsewhere."
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.5-linux-a82cb60f/AciraBrowser-0.1.0-beta.13.5-linux-x86_64.AppImage",
+  "sha512": "/4Lkeog8l85I6IgZC/aCEUAWfuTHPNIYTtW/sgjdRJnuf52wexyZrmjqO3jR/0q8ofrYFOPT5oprrkjmrNNa3Q==",
+  "releaseDate": "2026-11-10T12:25:16.578Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.5",
+  "releaseNotes": "- Installing a site as an app no longer closes Acira on Mac when the site has no icon.\n- A page asking \"Leave this site?\" no longer freezes Acira.\n- Always dark stays on when you zoom or open a link preview as a tab, and dark tabs can sleep again.\n- The site glow slides in with the sidebar, and a new page gets its colour sooner.\n- Without graphics acceleration, Reduce motion turns on by itself so Acira stays smooth.\n- Pinned extensions also sit at the top of the sidebar, and on Linux their popups open inside the window.\n- With the address bar in the sidebar, the sidebar stays open in Full and its button no longer misses a quick second press.\n- A download running when you quit can be resumed, and a full disk now says so.\n- Extension buttons work in private windows, and links from extension windows open as tabs.\n- Typing a Space's name in the command bar no longer closes tabs, and a damaged saved window no longer stops Acira from starting.\n- Acira uses less memory."
 }
