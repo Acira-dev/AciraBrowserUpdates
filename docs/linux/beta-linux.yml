@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-beta.13.6",
+  "version": "0.1.0-beta.13.7",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.6-linux-acfcb1e7/AciraBrowser-0.1.0-beta.13.6-linux-x86_64.AppImage",
-      "sha512": "w/9CtjLPEVHnB9V3q4fA+4EjzPybcu0SswTaoMwo8rL1k7zVKbAYrADbCfr1DnuorPPhIBRw3NGIsVOsmPTgtA==",
-      "size": 241855617
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.7-linux-954d5594/AciraBrowser-0.1.0-beta.13.7-linux-x86_64.AppImage",
+      "sha512": "yM0kXgmIscsviYfsOOcDsma7e3BmRrvDwrZkT69WzxPK8G+cm+jxE5bjRSdS9IDhRfaghmc2Kz0eKw0teaUy5g==",
+      "size": 241885004
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.6-linux-acfcb1e7/AciraBrowser-0.1.0-beta.13.6-linux-x86_64.AppImage",
-  "sha512": "w/9CtjLPEVHnB9V3q4fA+4EjzPybcu0SswTaoMwo8rL1k7zVKbAYrADbCfr1DnuorPPhIBRw3NGIsVOsmPTgtA==",
-  "releaseDate": "2026-11-10T22:18:34.697Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.6",
-  "releaseNotes": "- Split view and Seamless are much smoother: sites no longer redraw themselves on every frame while the sidebar or toolbar slides.\n- On Windows, the buttons of the top-right split pane no longer sit under the window buttons (Sidebar + address, Seamless, or with the toolbar hidden).\n- Switching tabs shows the page sooner.\n- After a zoom, the address bar shows the new size for 2 seconds, then a small magnifier. Right-click the magnifier or the bookmark star to hide it.\n- Address suggestions no longer say \"From your history\" under each row.\n- Right-click Acira in the Windows taskbar, the Mac Dock or the Linux launcher for New window and New private window.\n- \"Applies to: This profile\" now keeps that profile's finish and colours too.\n- The sidebar button no longer misses a quick third press, and the tab list no longer jumps when you switch tabs with a pinned extension."
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.7-linux-954d5594/AciraBrowser-0.1.0-beta.13.7-linux-x86_64.AppImage",
+  "sha512": "yM0kXgmIscsviYfsOOcDsma7e3BmRrvDwrZkT69WzxPK8G+cm+jxE5bjRSdS9IDhRfaghmc2Kz0eKw0teaUy5g==",
+  "releaseDate": "2026-11-12T12:50:02.980Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.7",
+  "releaseNotes": "- Switching tabs no longer flashes back and forth between the two tabs before it settles.\n- On Windows, the window buttons in Seamless, with the toolbar hidden and in Sidebar + address appear as soon as you reach the corner, with no empty grey square, on a softly rounded background.\n- Every favorite now shows in the sidebar: no more \"+N\" tile or collapse arrow, and no dot under the favorites.\n- Opening a bookmark, history or reading list page of another site from the sidebar no longer takes over a favorite's tab, so the wrong favorite no longer stays highlighted.\n- Bitwarden's popup is no longer cut off on the left with a dark strip on the right, and uBlock Origin Lite's popup no longer keeps changing width at 125 % and 150 % display scaling.\n- HubSpot Sales now installs and no longer keeps reloading itself, Claude's extension starts, and Calendly's sidebar opens.\n- Tabrr's toolbar button opens a new tab instead of an empty window, its menu offers \"Use as New Tab page\", and its New Tab page no longer covers an extension's side panel. Colorway's eyedropper works.\n- Raindrop and other extensions that use your website sign-in no longer say \"Please log in\" while you are signed in on the site.\n- On Linux with Wayland (KDE Plasma and most new desktops), the sidebar and the address bar now appear when you move the pointer to the edge in Seamless and with the toolbar hidden.\n- On Linux without a keyring, websites open again instead of staying blocked behind the data cleanup panel.\n- On Windows, a window you minimised no longer comes back with a blank white page.\n- On some Windows computers, the first-launch setup no longer freezes for up to 15 seconds: Skip setup now shows in about 3 seconds.\n- In Focus view with the Top bar layout, an extension's shortcut (such as Bitwarden's Ctrl+Shift+Y) now opens its popup.\n- Pressing 1Password's button again brings its open welcome window to the front instead of opening another window each time.\n- Large extensions such as HubSpot Sales now install on a slow connection instead of stopping after 10 minutes, and an extension that restarts itself keeps the settings it saved just before.\n- On Linux computers that draw without graphics acceleration, the setup screen now shows its real colours instead of pale tints.\n- Proton Pass's popup now opens at its full size instead of a narrow strip on Windows."
 }
