@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0-beta.13.8",
+  "version": "0.1.0-beta.13.9",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.8-windows-be74e500/AciraBrowserSetup.exe",
-      "sha512": "0WCNKzePpgtvYzrlSZSyKvay1eOGuXBXVwluYH4tz4gS71mCQo+9HkprRmr6U+oL5e/ZaIGqOgTuY0Yl7K0uiw==",
-      "size": 229237757
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.9-windows-ed8f287b/AciraBrowserSetup.exe",
+      "sha512": "b+h24TtMfRHKh8Sdk95f8+NO/QsTQd35a/8OmHwZ1rT/k7sTrjWGj0zTKMzEflYdHCeEpUTseeWSnJ/vryEEug==",
+      "size": 229279315
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.8-windows-be74e500/AciraBrowserSetup.exe",
-  "sha512": "0WCNKzePpgtvYzrlSZSyKvay1eOGuXBXVwluYH4tz4gS71mCQo+9HkprRmr6U+oL5e/ZaIGqOgTuY0Yl7K0uiw==",
-  "releaseDate": "2026-11-14T02:39:39.162Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.8",
-  "releaseNotes": "- Extension popups now fit their content every time it changes. Proton Pass after you sign in, Bitwarden's screens and others no longer leave blank space, get cut off, shrink to a tiny box at 125 % or 150 % display scale, or flash while they resize.\n- An extension's New Tab page, such as Tabrr's, opens without flashing an old page or a white screen first. It sits under Acira's sidebar and toolbar like any page, and the Seamless bar works on it.\n- In Seamless and with the toolbar hidden, the bar or sidebar you opened an extension from stays while its popup is open.\n- With YouTube Inline Fullscreen (or any video that fills the window), the bar and the sidebar still appear when you move the pointer to the edge in Seamless.\n- Extensions update themselves in the background, as in Chrome. An update that asks for new access waits until you check for updates in Settings.\n- Extensions that save files, such as Image Downloader, download again, also many files at once and into folders. A side panel you close with its own X opens again from the extension's button.\n- Sites that use Ctrl+K or Ctrl+E for their own commands, such as Webflow, now get those keys first. Acira acts only when the site doesn't use them.\n- Colorway's eyedropper opens the colour picker and picks the colour you click.\n- Inspecta's panel opens when you click its button.\n- Calendly's button works on the first press right after Acira starts, also with HubSpot Sales installed.\n- YouTube tools such as Shorts blockers keep working after Acira restarts, and extensions can remove the styles they added.\n- On Mac and Windows, the installed app was missing part of Acira's extension support, which extensions such as Colorway and Image Downloader rely on. It's back.\n- If Acira clears your data when it closes, it no longer waits for its own filter and safety lists to finish downloading. Those downloads now have a connection of their own and never use your profile's.\n- Proton VPN's first setup works: its access request is answered once, and it goes on to sign-in. Before, Allow had to be pressed three times and nothing happened.\n- An extension's side panel stays open when you press its button again, and the extension's own shortcut closes and opens it.\n- An extension page opened twice quickly opens one window, and a page that fails its first load is tried again.\n- What you type in the address bar always stays yours: it no longer jumps back to older text, loses letters to the page after a tab switch, or gets added to a site's own address change. Typing and tab switches are faster with a long history.\n- A password manager extension such as Bitwarden can be your default: its setting stays on after a restart, and Acira stops offering to save passwords while it is.\n- The bookmarks bar shows your folders: click one to open its bookmarks, with folders inside opening in place. Bookmarks imported from Edge or from Chrome in another language now land on the bar too.\n- Smoother everywhere: switching and closing tabs, opening a New Tab, resizing the window and the sidebar all do less work, and Acira no longer pauses for a moment when its filter lists update in the background.\n- Acira no longer jumps in front of the app you're using when a page in it reloads, redirects or opens a tab by itself.",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.9-windows-ed8f287b/AciraBrowserSetup.exe",
+  "sha512": "b+h24TtMfRHKh8Sdk95f8+NO/QsTQd35a/8OmHwZ1rT/k7sTrjWGj0zTKMzEflYdHCeEpUTseeWSnJ/vryEEug==",
+  "releaseDate": "2026-11-14T23:45:23.197Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.9",
+  "releaseNotes": "- Coming back to Acira from another app always gives the keyboard back to the page you were on. Before, after a lot of switching between windows, your keys could go nowhere until you clicked.\n- The camera, microphone and screen-sharing pill goes away the moment a site stops using them, such as when a WhatsApp Web voice message ends. It no longer stays until you reload.\n- An extension's side panel, such as Claude's, opens every time you press its button, its shortcut opens and closes it, and a panel opened on one tab stays with that tab.\n- Sites load faster: Acira no longer pauses for a moment while it saves your website sign-ins to disk.\n- A tab keeps its site icon and glow when you move to another page of the same site, such as from m.twitch.tv to twitch.tv.\n- The site colour glow fades smoothly even when you switch tabs quickly, instead of jumping.\n- Each extension has an \"Allow access to file URLs\" switch on its card, off by default as in Chrome. With it on, the PDF Viewer extension opens PDFs from your computer.\n- Taking a tab out of a folder is easy: drop it below the folder's last tab or above the folder and it lands there, with the line showing exactly where it goes.\n- \"Favorites' tabs in the tab list\" is now off by default. If you turned it on, it stays on. A Favorite's open tab still counts as a tab, and Ctrl+1 to 9 and Next tab reach it.\n- Ctrl+Tab steps through your tabs in the right order when you press it quickly.\n- With the sidebar on the right at 150 %, the toolbar's buttons no longer slide over the » menu while the sidebar opens or closes.\n- When you pick a tab far down the sidebar list, the list scrolls to it without the current-tab pill and the Bookmarks row popping in and cutting off the bottom rows.\n- Your mouse's back and forward buttons go back or forward one page per click. On Linux a click no longer goes back two pages, and on Windows some mice no longer close Acira.\n- Typing a file:/// address, such as a PDF on your computer, into the address bar or the New Tab page and pressing Enter opens it.\n- Pages load a little faster: answering cookie banners no longer makes every page redo its layout once while it loads.\n- Acira uses less graphics memory after a site's colour has shown, because the site glow no longer keeps idle layers in memory.\n- A video in full screen, such as YouTube's, can no longer leave Acira without its sidebar and toolbar: taking the window out of full screen gives them back, Esc no longer pulls the window back into full screen, and Acira can always be closed.\n- Over the sidebar, your mouse's back and forward buttons and a two-finger sideways swipe (Mac) move to the previous or next workspace. With a single workspace, the buttons go back and forward in the tab as usual.",
   "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.13.8",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.8-windows-be74e500/AciraBrowserSetup.exe.blockmap"
+    },
     {
       "version": "0.1.0-beta.13.7",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.7-windows-954d5594/AciraBrowserSetup.exe.blockmap"
@@ -32,10 +36,6 @@
     {
       "version": "0.1.0-beta.13.3",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.3-windows-9123f345/AciraBrowserSetup.exe.blockmap"
-    },
-    {
-      "version": "0.1.0-beta.13.2",
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.2-windows-17026663/AciraBrowserSetup.exe.blockmap"
     }
   ]
 }
