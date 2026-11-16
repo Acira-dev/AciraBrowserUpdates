@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0-beta.13.9",
+  "version": "0.1.0-beta.13.10",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.9-windows-ed8f287b/AciraBrowserSetup.exe",
-      "sha512": "b+h24TtMfRHKh8Sdk95f8+NO/QsTQd35a/8OmHwZ1rT/k7sTrjWGj0zTKMzEflYdHCeEpUTseeWSnJ/vryEEug==",
-      "size": 229279315
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.10-windows-521922db/AciraBrowserSetup.exe",
+      "sha512": "bN5nt0r/JdRbbhlS1T7aAM/z+t9r6Pg2zu2KiYZwtd27QfkRdyNXpcYMx0QuaHz9Kg1wmVCWXNqQ+kt2vnd+JA==",
+      "size": 229259676
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.9-windows-ed8f287b/AciraBrowserSetup.exe",
-  "sha512": "b+h24TtMfRHKh8Sdk95f8+NO/QsTQd35a/8OmHwZ1rT/k7sTrjWGj0zTKMzEflYdHCeEpUTseeWSnJ/vryEEug==",
-  "releaseDate": "2026-11-14T23:45:23.197Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.9",
-  "releaseNotes": "- Coming back to Acira from another app always gives the keyboard back to the page you were on. Before, after a lot of switching between windows, your keys could go nowhere until you clicked.\n- The camera, microphone and screen-sharing pill goes away the moment a site stops using them, such as when a WhatsApp Web voice message ends. It no longer stays until you reload.\n- An extension's side panel, such as Claude's, opens every time you press its button, its shortcut opens and closes it, and a panel opened on one tab stays with that tab.\n- Sites load faster: Acira no longer pauses for a moment while it saves your website sign-ins to disk.\n- A tab keeps its site icon and glow when you move to another page of the same site, such as from m.twitch.tv to twitch.tv.\n- The site colour glow fades smoothly even when you switch tabs quickly, instead of jumping.\n- Each extension has an \"Allow access to file URLs\" switch on its card, off by default as in Chrome. With it on, the PDF Viewer extension opens PDFs from your computer.\n- Taking a tab out of a folder is easy: drop it below the folder's last tab or above the folder and it lands there, with the line showing exactly where it goes.\n- \"Favorites' tabs in the tab list\" is now off by default. If you turned it on, it stays on. A Favorite's open tab still counts as a tab, and Ctrl+1 to 9 and Next tab reach it.\n- Ctrl+Tab steps through your tabs in the right order when you press it quickly.\n- With the sidebar on the right at 150 %, the toolbar's buttons no longer slide over the » menu while the sidebar opens or closes.\n- When you pick a tab far down the sidebar list, the list scrolls to it without the current-tab pill and the Bookmarks row popping in and cutting off the bottom rows.\n- Your mouse's back and forward buttons go back or forward one page per click. On Linux a click no longer goes back two pages, and on Windows some mice no longer close Acira.\n- Typing a file:/// address, such as a PDF on your computer, into the address bar or the New Tab page and pressing Enter opens it.\n- Pages load a little faster: answering cookie banners no longer makes every page redo its layout once while it loads.\n- Acira uses less graphics memory after a site's colour has shown, because the site glow no longer keeps idle layers in memory.\n- A video in full screen, such as YouTube's, can no longer leave Acira without its sidebar and toolbar: taking the window out of full screen gives them back, Esc no longer pulls the window back into full screen, and Acira can always be closed.\n- Over the sidebar, your mouse's back and forward buttons and a two-finger sideways swipe (Mac) move to the previous or next workspace. With a single workspace, the buttons go back and forward in the tab as usual.",
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.10-windows-521922db/AciraBrowserSetup.exe",
+  "sha512": "bN5nt0r/JdRbbhlS1T7aAM/z+t9r6Pg2zu2KiYZwtd27QfkRdyNXpcYMx0QuaHz9Kg1wmVCWXNqQ+kt2vnd+JA==",
+  "releaseDate": "2026-11-16T12:02:58.982Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.10",
+  "releaseNotes": "- In Seamless on Windows, the sidebar appears when you move the pointer to the edge, without clicking the window first. It slides in smoothly and opens sooner.\n- Closing the tab you're on takes you back to the tab you were on before it, instead of a tab further down the list or a pinned tab you never opened.\n- \"Put to sleep\" is now \"Unload tab\", \"Unload group\" and \"Unload workspace\" in the right-click menus. Unload tab frees a tab's memory, even for a pinned tab or the tab you're on (Acira moves to another tab first). The tab keeps its place and loads again when you open it.\n- The New Tab page's search box shows suggestions as you type, the same as the address bar: your history, bookmarks and open tabs, with the same keys.\n- Coming back to Acira from another app gives the keyboard back to where you were, including an extension's side panel, a site's question or the password prompt.\n- Private windows no longer log an error each time you open Acira's menu, and their content filter settings say at once that they're unavailable there.",
   "previousBlockMaps": [
+    {
+      "version": "0.1.0-beta.13.9",
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.9-windows-ed8f287b/AciraBrowserSetup.exe.blockmap"
+    },
     {
       "version": "0.1.0-beta.13.8",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.8-windows-be74e500/AciraBrowserSetup.exe.blockmap"
@@ -32,10 +36,6 @@
     {
       "version": "0.1.0-beta.13.4",
       "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.4-windows-24e08e3c/AciraBrowserSetup.exe.blockmap"
-    },
-    {
-      "version": "0.1.0-beta.13.3",
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.3-windows-9123f345/AciraBrowserSetup.exe.blockmap"
     }
   ]
 }
