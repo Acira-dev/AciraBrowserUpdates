@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-beta.13.10",
+  "version": "0.1.0-beta.13.11",
   "files": [
     {
-      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.10-linux-521922db/AciraBrowser-0.1.0-beta.13.10-linux-x86_64.AppImage",
-      "sha512": "6v+5NAiGZhGzErFiqM2ln9wVGqrNs6sAA2gE/MmwYogLqQEqWysc1rAT8Zgj8IN4GIUagUuPrMwuQP03RtVYLw==",
-      "size": 242028106
+      "url": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.11-linux-5932deda/AciraBrowser-0.1.0-beta.13.11-linux-x86_64.AppImage",
+      "sha512": "SyCTYsML0pTcPJTAX4Wtfjj93KpB+B/NQ2+k8O6V6jrTWNddrk8CAqSpFSKf3AZ2iSOEg82N3vul8QiGQVEDfQ==",
+      "size": 242061186
     }
   ],
-  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.10-linux-521922db/AciraBrowser-0.1.0-beta.13.10-linux-x86_64.AppImage",
-  "sha512": "6v+5NAiGZhGzErFiqM2ln9wVGqrNs6sAA2gE/MmwYogLqQEqWysc1rAT8Zgj8IN4GIUagUuPrMwuQP03RtVYLw==",
-  "releaseDate": "2026-11-16T12:08:18.226Z",
-  "releaseName": "Acira Browser 0.1.0-beta.13.10",
-  "releaseNotes": "- In Seamless on Windows, the sidebar appears when you move the pointer to the edge, without clicking the window first. It slides in smoothly and opens sooner.\n- Closing the tab you're on takes you back to the tab you were on before it, instead of a tab further down the list or a pinned tab you never opened.\n- \"Put to sleep\" is now \"Unload tab\", \"Unload group\" and \"Unload workspace\" in the right-click menus. Unload tab frees a tab's memory, even for a pinned tab or the tab you're on (Acira moves to another tab first). The tab keeps its place and loads again when you open it.\n- The New Tab page's search box shows suggestions as you type, the same as the address bar: your history, bookmarks and open tabs, with the same keys.\n- Coming back to Acira from another app gives the keyboard back to where you were, including an extension's side panel, a site's question or the password prompt.\n- Private windows no longer log an error each time you open Acira's menu, and their content filter settings say at once that they're unavailable there."
+  "path": "https://github.com/Acira-dev/AciraBrowserUpdates/releases/download/v0.1.0-beta.13.11-linux-5932deda/AciraBrowser-0.1.0-beta.13.11-linux-x86_64.AppImage",
+  "sha512": "SyCTYsML0pTcPJTAX4Wtfjj93KpB+B/NQ2+k8O6V6jrTWNddrk8CAqSpFSKf3AZ2iSOEg82N3vul8QiGQVEDfQ==",
+  "releaseDate": "2026-11-22T02:26:00.009Z",
+  "releaseName": "Acira Browser 0.1.0-beta.13.11",
+  "releaseNotes": "- Beta 13.11 for Windows adds a place in Settings > About > Extras where invited Insiders can enter their code. Nothing else changes."
 }
